@@ -52,4 +52,4 @@ const API = function() {
   };
 };
 
-export { API };
+module.exports.API = API;
